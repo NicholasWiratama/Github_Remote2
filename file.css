@@ -1,0 +1,47 @@
+/* Mengatur gaya untuk elemen body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Mengatur gaya untuk elemen header */
+h1 {
+    color: #4CAF50;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Mengatur gaya paragraf */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 10px 20px;
+}
+
+/* Gaya untuk daftar berurutan (ol) */
+ol {
+    margin: 20px;
+    padding-left: 40px;
+}
+
+/* Gaya untuk elemen <code> */
+code {
+    background-color: #e8e8e8;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+/* Mengatur gaya footer */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
